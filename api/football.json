@@ -1,0 +1,16 @@
+{
+  "matches": [
+    {
+      "team1": "Arsenal",
+      "team1_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/42/image",
+      "team2": "Burnley",
+      "team2_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/6/image",
+      "league": "Premier League",
+      "league_id": 17,
+      "league_logo": "https://api.sofascore1.com/api/v1/unique-tournament/17/image",
+      "start": "2026-05-19T04:00:00+09:00",
+      "duration": 2.2,
+      "details_url": "https://www.yosintv.net/match?yosintv=burnley"
+    }
+  ]
+}
