@@ -5,8 +5,10 @@
       "team1_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/2538/image",
       "team2": "Aston Villa",
       "team2_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/40/image",
+      "league_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/unique-tournament/679/image",
       "league": "Europa League",
       "start": "2026-05-21T04:00:00+09:00",
+      "league_id": 679,
       "duration": 2.2,
       "details_url": "https://www.yosintv.net/match?yosintv=astonvilla",
       "football_data": {
@@ -29,45 +31,17 @@
         "lineups": {
           "home_formation": "4-2-3-1",
           "away_formation": "4-2-3-1",
-          "home_players": [
-            "Noah Atubolu",
-            "Lukas Kübler",
-            "Matthias Ginter",
-            "Philipp Lienhart",
-            "Philipp Treu",
-            "Maximilian Eggestein",
-            "Nicolas Höfler",
-            "Jan-Niklas Beste",
-            "Johan Manzambi",
-            "Vincenzo Grifo",
-            "Igor Matanović"
-          ],
-          "away_players": [
-            "Emiliano Martínez",
-            "Matty Cash",
-            "Ezri Konsa",
-            "Pau Torres",
-            "Lucas Digne",
-            "Victor Lindelöf",
-            "Youri Tielemans",
-            "John McGinn",
-            "Morgan Rogers",
-            "Emiliano Buendía",
-            "Ollie Watkins"
-          ],
-          "home_missing_players": [
-            "Daniel-Kofi Kyereh",
-            "Maximilian Rosenfelder",
-            "Patrick Osterhage",
-            "Yuito Suzuki"
-          ],
-          "away_missing_players": [
-            "Alysson",
-            "Amadou Onana",
-            "Emiliano Buendía"
-          ]
+          "home_players": ["Noah Atubolu", "Lukas Kübler", "Matthias Ginter", "Philipp Lienhart", "Philipp Treu", "Maximilian Eggestein", "Nicolas Höfler", "Jan-Niklas Beste", "Johan Manzambi", "Vincenzo Grifo", "Igor Matanović"],
+          "away_players": ["Emiliano Martínez", "Matty Cash", "Ezri Konsa", "Pau Torres", "Lucas Digne", "Victor Lindelöf", "Youri Tielemans", "John McGinn", "Morgan Rogers", "Emiliano Buendía", "Ollie Watkins"],
+          "home_missing_players": ["Daniel-Kofi Kyereh", "Maximilian Rosenfelder", "Patrick Osterhage", "Yuito Suzuki"],
+          "away_missing_players": ["Alysson", "Amadou Onana", "Emiliano Buendía"]
         },
-        "pregame_form": null
+        "pregame_form": {
+          "error": {
+            "code": 403,
+            "reason": "challenge"
+          }
+        }
       }
     },
     {
@@ -75,8 +49,10 @@
       "team1_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/1968/image",
       "team2": "San Lorenzo",
       "team2_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/3201/image",
+      "league_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/unique-tournament/480/image",
       "league": "CONMEBOL Sudamericana, Group D",
       "start": "2026-05-21T07:00:00+09:00",
+      "league_id": 480,
       "duration": 2.2,
       "details_url": "https://www.yosintv.net/match?yosintv=santos",
       "football_data": {
@@ -102,11 +78,7 @@
           "away_formation": null,
           "home_players": [],
           "away_players": [],
-          "home_missing_players": [
-            "Gabriel Menino",
-            "João Schmidt",
-            "Thaciano"
-          ],
+          "home_missing_players": ["João Schmidt", "Neymar", "Thaciano"],
           "away_missing_players": []
         },
         "pregame_form": {
@@ -114,23 +86,13 @@
             "avgRating": "6.76",
             "position": 4,
             "value": "3",
-            "form": [
-              "L",
-              "D",
-              "D",
-              "D"
-            ]
+            "form": ["L", "D", "D", "D"]
           },
           "awayTeam": {
             "avgRating": "6.86",
             "position": 1,
             "value": "6",
-            "form": [
-              "D",
-              "W",
-              "D",
-              "D"
-            ]
+            "form": ["D", "W", "D", "D"]
           },
           "label": "Pts"
         }
