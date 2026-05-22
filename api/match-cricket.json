@@ -1,40 +1,6 @@
 {
   "matches": [
     {
-      "team1": "Gujarat Titans",
-      "team1_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/216006/image",
-      "team2": "Chennai Super Kings",
-      "team2_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/187777/image",
-      "league_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/unique-tournament/40604/image",
-      "league": "Indian Premier League",
-      "start": "2026-05-21T23:00:00+09:00",
-      "league_id": 40604,
-      "duration": 5,
-      "details_url": "https://www.yosintv.net/match?yosintv=gujarattitans",
-      "cricket_data": {
-        "event": {
-          "league": "Indian Premier League",
-          "round": null,
-          "start_time_utc": "Thu, 21 May 2026 14:00:00 GMT",
-          "venue": "Narendra Modi Stadium",
-          "stadium_capacity": 132000,
-          "home_team": "Gujarat Titans",
-          "away_team": "Chennai Super Kings"
-        },
-        "h2h": {
-          "homeWins": 5,
-          "awayWins": 4,
-          "draws": 0
-        },
-        "lineups": {
-          "home_players": [],
-          "away_players": [],
-          "home_missing_players": [],
-          "away_missing_players": []
-        }
-      }
-    },
-    {
       "team1": "Nepal",
       "team1_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/187772/image",
       "team2": "USA",
@@ -78,7 +44,7 @@
       "start": "2026-05-22T23:00:00+09:00",
       "league_id": 40604,
       "duration": 5,
-      "details_url": "https://www.yosintv.net/match?yosintv=sunrisershyderabad",
+      "details_url": "https://www.yosintv.net/match?yosintv=ipl",
       "cricket_data": {
         "event": {
           "league": "Indian Premier League",
