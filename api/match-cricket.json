@@ -1,20 +1,6 @@
 {
   "matches": [
     {
-      "team1": "Royal Challengers Bengaluru",
-      "team1_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/187843/image",
-      "team2": "Gujarat Titans",
-      "team2_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/216006/image",
-      "league_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/unique-tournament/102104/image",
-      "league": "Indian Premier League, Playoffs",
-      "start": "2026-05-26T23:00:00+09:00",
-      "league_id": 102104,
-      "duration": 5,
-      "details_url": "https://www.yosintv.net/match?yosintv=ipl",
-      "event_id": 16220358,
-      "cricket_data": null
-    },
-    {
       "team1": "Ireland",
       "team1_logo": "https://i1.wp.com/api.sofascore1.com/api/v1/team/187766/image",
       "team2": "New Zealand",
@@ -26,7 +12,81 @@
       "duration": 10,
       "details_url": "https://www.yosintv.net/match?yosintv=ireland",
       "event_id": 15840447,
-      "cricket_data": null
+      "cricket_data": {
+        "event": {
+          "league": "New Zealand in Ireland, One-off Test",
+          "round": null,
+          "start_time_utc": "Wed, 27 May 2026 10:00:00 GMT",
+          "venue": "Civil Service North of Ireland CC",
+          "stadium_capacity": null,
+          "home_team": "Ireland",
+          "away_team": "New Zealand"
+        },
+        "h2h": {
+          "homeWins": 0,
+          "awayWins": 10,
+          "draws": 0
+        },
+        "lineups": {
+          "home_players": [
+            "Andy McBrine",
+            "Cade Carmichael",
+            "Curtis Campher",
+            "Harry Tector",
+            "Liam McCarthy",
+            "Mark Adair",
+            "Reuben Wilson",
+            "Stephen Doheny",
+            "Thomas Mayes",
+            "Lorcan Tucker",
+            "Andy Balbirnie",
+            "Barry McCarthy",
+            "Ben Calitz",
+            "Ben White",
+            "Craig Young",
+            "Gareth Delany",
+            "George Dockrell",
+            "Graham Hume",
+            "Jake Egan",
+            "Josh Little",
+            "Matthew Humphreys",
+            "Paul Stirling",
+            "Ross Adair",
+            "Sam Topping",
+            "Tim Tector"
+          ],
+          "away_players": [
+            "Ben Sears",
+            "Blair Tickner",
+            "Daryl Mitchell",
+            "Dean Foxcroft",
+            "Devon Conway",
+            "Kane Williamson",
+            "Nathan Smith",
+            "Rachin Ravindra",
+            "Zakary Foulkes",
+            "Tom Blundell",
+            "Tom Latham",
+            "Adithya Ashok",
+            "Ben Lister",
+            "Dane Cleaver",
+            "Glenn Phillips",
+            "Henry Nicholls",
+            "Jayden Lennox",
+            "Josh Clarkson",
+            "Kristian Clarke",
+            "Kyle Jamieson",
+            "Matt Henry",
+            "Michael Rae",
+            "Muhammad Abbas",
+            "Nick Kelly",
+            "Will O'Rourke",
+            "Will Young"
+          ],
+          "home_missing_players": [],
+          "away_missing_players": []
+        }
+      }
     },
     {
       "team1": "Sunrisers Hyderabad",
